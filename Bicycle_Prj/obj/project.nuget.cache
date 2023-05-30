@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7Is02RKdAD3Vs+IA+eOTpigIXzzx+6Ns5W+8kOx2U9yjLrPF1jTGBO62YOeyHvjJz9IVq5MXfSV3RTbJJRRXg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GFSC_Repo\\Bicycle_Prj\\Bicycle_Prj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\badsh\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.16\\microsoft.aspnetcore.spaproxy.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

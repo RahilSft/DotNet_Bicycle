@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "4azxa/mFq9LPRUdlQnjfs3Ar9LlkFR0Mr6OCYCkT3JU=",
+  "Source": "Bicycle_Prj",
+  "BasePath": "_content/Bicycle_Prj",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bicycle_Prj\\wwwroot",
+      "Source": "Bicycle_Prj",
+      "ContentRoot": "D:\\Projects\\GFSC_Repo\\Bicycle_Prj\\wwwroot\\",
+      "BasePath": "_content/Bicycle_Prj",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\GFSC_Repo\\Bicycle_Prj\\wwwroot\\favicon.ico",
+      "SourceId": "Bicycle_Prj",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\GFSC_Repo\\Bicycle_Prj\\wwwroot\\",
+      "BasePath": "_content/Bicycle_Prj",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
